@@ -27,7 +27,6 @@ This version refactors the original PyTorch code using **PyTorch Lightning**, en
 - Cleaner training/validation loops
 - Easier experiment management with callbacks and loggers
 - Better reproducibility
-- Simpler multi-GPU training
 
 ---
 
